@@ -1,20 +1,24 @@
-# Chandler's Data Analytics Portfolio
+# Tableau Call Center KPI Dashboard
 
-Welcome to my data analytics portfolio.
+## Project Overview
+This project is an interactive Tableau dashboard built to monitor call center performance and key business metrics.
 
-This portfolio contains projects that demonstrate my skills in SQL, Tableau, Excel, data cleaning, exploratory data analysis, and dashboard development.
-
-## Projects
-
-- US Household Income Analysis
-- World Life Expectancy Analysis
-- Call Center KPI Dashboard
-
-## Skills
-
-- SQL
+## Skills Demonstrated
 - Tableau
-- Excel
-- Data Cleaning
-- Exploratory Data Analysis
+- Dashboard Design
+- KPI Reporting
+- Interactive Filters
 - Data Visualization
+
+## Dashboard Features
+- Call Volume
+- Average Handle Time
+- Customer Satisfaction
+- Agent Performance
+- Interactive Dashboard Filters
+
+## Files
+- Call Center KPI dashboard.twb
+
+## Tools Used
+- Tableau
